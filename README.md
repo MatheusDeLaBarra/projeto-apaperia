@@ -6,9 +6,7 @@ Este projeto foi proposto pela plataforma de ensino Alura, para validar os conhe
 
 ![Desktop-sobre](layout/desktop/sobre.png)
 
-![Mobile-cabecalho](layout/mobile/cabecalho-mobile.png)
-
-![Mobile-destaques](layout/mobile/destaques-mobile.png)
+![Mobile-cabecalho](layout/mobile/cabecalho-mobile.png) ![Mobile-destaques](layout/mobile/destaques-mobile.png)
 
 ## 🚀 Começando
 
