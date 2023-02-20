@@ -2,13 +2,13 @@
 
 Este projeto foi proposto pela plataforma de ensino Alura, para validar os conhecimentos adquiridos sobre o tema de Mobile first, desenvolvimento web iniciando pelo Mobile. O projeto consiste em um website de solucoes tecnologicas para empresas de pequeno e medio porte.
 
-![Desktop-cabecalho](layout/desktop/cabecalho)
+![Desktop-cabecalho](layout/desktop/cabecalho.png)
 
-![Desktop-sobre](layout/desktop/sobre)
+![Desktop-sobre](layout/desktop/sobre.png)
 
-![Mobile-cabecalho](layout/mobile/cabecalho-mobile)
+![Mobile-cabecalho](layout/mobile/cabecalho-mobile.png)
 
-![Mobile-destaques](layout/mobile/destaques-mobile)
+![Mobile-destaques](layout/mobile/destaques-mobile.png)
 
 ## 🚀 Começando
 
